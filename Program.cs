@@ -73,7 +73,7 @@ namespace Fibonacci
 
                 resul3 = resul1 + resul;
 
-                Console.Write($"- {resul3} ");
+                Console.Write($"- {resul} ");
 
                 resul = resul1;
                 resul1 = resul3;
